@@ -1,1 +1,1 @@
-"# aoc-stars-shield" 
+# aoc-stars-shield
